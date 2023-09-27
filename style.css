@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Gill Sans", sans-serif;
+  }
+  
+ul, li {
+    list-style: none;
+    padding: 10px 10px;
+}
+
+#anim:hover {
+    background-color:#deb306;
+}
+
+
+footer .list-group-item {
+        background-color:transparent;
+        color:white;
+        border:0;
+};
+
+footer .list-group-item p {
+    margin:0;
+}
